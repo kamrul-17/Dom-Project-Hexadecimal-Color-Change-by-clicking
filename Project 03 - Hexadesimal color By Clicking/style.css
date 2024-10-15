@@ -1,0 +1,32 @@
+div{
+    display: grid;
+    background-color: rgb(198, 206, 195);
+}
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    justify-self: center;
+    text-align: center;
+
+}
+
+button{
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    justify-self: center;
+
+}
+button:hover{
+    background-color: rgb(8, 73, 54);
+}
