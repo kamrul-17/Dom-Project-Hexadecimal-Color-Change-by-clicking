@@ -1,0 +1,13 @@
+/* Add your styling here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #dataContainer {
+    margin-top: 20px;
+  }
